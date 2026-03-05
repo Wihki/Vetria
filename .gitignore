@@ -1,0 +1,13 @@
+# Python ignore patterns
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+
+# Node.js ignore patterns
+node_modules/
+dist/
+.DS_Store
+npm-debug.log
